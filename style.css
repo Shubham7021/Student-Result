@@ -1,0 +1,39 @@
+body {
+    font-family: Arial sans-serif;
+    padding: 20px;
+    background-image: url(background-1877690.jpg);
+  }
+  .container {
+    width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+  }
+  
+  #resultContainer {
+    display: none;
+    background-color: #f6f6f6f6;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
